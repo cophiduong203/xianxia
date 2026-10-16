@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "hyturtutien",
+  "version": "${version}",
+  "name": "Hytur Tu Tien 3.0 - Ngu Kiem & Thien Kiem",
+  "description": "Fabric cultivation RPG with auto breakthroughs, spirit sword flight, void rift ultimate (I), sword spells, teleport, aura and loot pills.",
+  "authors": [
+    "Hytur Tu Tien"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "vn.hyturcraft.tutien.TuTienMod"
+    ],
+    "client": [
+      "vn.hyturcraft.tutien.TuTienClient"
+    ]
+  },
+  "mixins": [
+    "hyturtutien.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

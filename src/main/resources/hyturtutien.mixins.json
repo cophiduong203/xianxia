@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "vn.hyturcraft.tutien.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ServerPlayerMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

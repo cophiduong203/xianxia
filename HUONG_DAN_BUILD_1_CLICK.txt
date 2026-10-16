@@ -1,0 +1,10 @@
+HYTUR TU TIEN - Fabric 1.20.1
+
+1. Giai nen file ZIP.
+2. Vao thu muc vua giai nen, nhap dup TAO_MOD_JAR.bat.
+3. May phai co Internet va Java 17 (hoac Java 21).
+4. Cho chay xong. Neu thanh cong, file hytur-tu-tien-1.0.0.jar se xuat hien cung thu muc.
+5. Chep nguyen file .jar vao thu muc mods cua HyturCraft; server multiplayer cung can cai mod.
+
+CHU Y: Ma nguon nay CHUA DUOC kiem thu bien dich/thuc thi tren Minecraft.
+Neu build that bai, gui anh loi de sua. Khong chep ZIP hoac BAT vao mods.
